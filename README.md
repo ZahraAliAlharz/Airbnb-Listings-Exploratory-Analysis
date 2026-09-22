@@ -1,5 +1,5 @@
 # Airbnb-Listings-Exploratory-Analysis
-# Airbnb Listing EDA
+
 
 Exploratory Data Analysis (EDA) of Airbnb listing data using Python, with a focus on understanding listing characteristics, neighbourhoods, pricing, availability, and review scores.
 
